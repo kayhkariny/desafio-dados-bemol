@@ -1,7 +1,7 @@
 # Desafio de Dados Talent Lab
 
 ## Análise de Dados do E-Commerce Brasileiro 
-Este desafio visa fornecer uma análise abrangente do desempenho, logística, satisfação do cliente, finanças e marketing do setor de comércio eletrônico brasileiro. Utilizando conjuntos de dados do Olist, exploramos várias facetas do comércio eletrônico, desde a análise de vendas até a satisfação do cliente e a eficácia do marketing.
+Este desafio visa fornecer uma análise abrangente do desempenho, logística, satisfação do cliente, finanças e marketing do setor de comércio eletrônico brasileiro. Utilizando conjuntos de dados do Olist, explorei várias facetas do comércio eletrônico, desde a análise de vendas até a satisfação do cliente e a eficácia do marketing.
 
 #### Ferramentas Utilizadas
 Python
@@ -26,7 +26,7 @@ Por meio de visualizações gráficas, como gráficos de barras mensais e trimes
 a. Prazos de Entrega: Calcular o tempo médio de entrega e identificar os fatores que 
 influenciam atrasos nas entregas.
 
-##### Calculei o tempo médio de entrega e identificamos atrasos nas entregas para entender a eficácia do processo logístico.
+##### Calculei o tempo médio de entrega e identifiquei atrasos nas entregas para entender a eficácia do processo logístico.
 
 ![Melhores Avaliações](logistica.png)
 
@@ -48,7 +48,7 @@ Além de obter o resultado do tempo médio de entrega, busquei analisar o tempo 
 
 
 #### Identificação de Fatores de Atrasos
-Identifiqui atrasos em várias entregas para clientes localizados em Roraima. Os atrasos variaram entre algumas semanas a cerca de um mês além da data estimada de entrega. Esses atrasos podem ter sido causados por uma variedade de fatores, como questões logísticas ou geográficas. Esses insights destacam a importância de monitorar de perto os prazos de entrega e identificar áreas de melhoria para garantir uma experiência satisfatória do cliente.
+Identifiquei atrasos em várias entregas para clientes localizados em Roraima. Os atrasos variaram entre algumas semanas a cerca de um mês além da data estimada de entrega. Esses atrasos podem ter sido causados por uma variedade de fatores, como questões logísticas ou geográficas. Esses insights destacam a importância de monitorar de perto os prazos de entrega e identificar áreas de melhoria para garantir uma experiência satisfatória do cliente.
 
 ## 3. Análise de Satisfação do Cliente
 a. Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e 
@@ -75,7 +75,7 @@ categorias de produtos, levando em conta o custo dos produtos e o preço de vend
 
 
 #### Resultados Obtidos
-Essa análise revelou insights valiosos sobre a lucratividade por categoria de produto. Identifiquei que várias categorias apresentam lucratividade negativa, incluindo Seguros e Serviços, Casa Conforto 2, Fashion Roupa Infanto-Juvenil, CDs/DVDs Musicais, Flores, Fraldas/Higiene, PC Gamer, Artes e Artesanato, Fashion Esporte e La Cuisine. Esses resultados destacam a necessidade de revisão das estratégias de precificação e controle de custos nessas categorias para melhorar a rentabilidade e garantir a saúde financeira do negócio. 
+Esta análise proporcionou insights valiosos sobre a rentabilidade por categoria de produto. Foi observado que diversas categorias apresentam rentabilidade negativa, tais como Seguros e Serviços, Casa Conforto 2, Moda Infanto-Juvenil, CDs/DVDs Musicais, Flores, Fraldas/Higiene, PC Gamer, Artes e Artesanato, Moda Esportiva e La Cuisine. Estes resultados ressaltam a necessidade de reavaliação das estratégias de precificação e controle de custos nestas categorias, visando aprimorar a lucratividade e assegurar a saúde financeira do empreendimento. 
 
 ## 5. Análise de Marketing
 a. Análise de Conversão de Vendas: Estudar a taxa de conversão de vendas com base 
