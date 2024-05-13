@@ -4,7 +4,7 @@
 Este desafio visa fornecer uma análise abrangente do desempenho, logística, satisfação do cliente, finanças e marketing do setor de comércio eletrônico brasileiro. Utilizando conjuntos de dados do Olist, exploramos várias facetas do comércio eletrônico, desde a análise de vendas até a satisfação do cliente e a eficácia do marketing.
 
 #### Ferramentas Utilizadas
-##### Python
+Python
 Bibliotecas: Pandas, Matplotlib, NumPy, SciPy, Seaborn
 
 ## 1. Análise de Performance de Vendas
@@ -30,7 +30,7 @@ influenciam atrasos nas entregas.
 
 ![Melhores Avaliações](logistica.png)
 
-'''bash
+````bash
 
 Detalhes dos pedidos com atraso em Roraima:
 ------------------------------------------------------------
